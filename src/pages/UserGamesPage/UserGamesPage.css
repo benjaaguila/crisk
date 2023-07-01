@@ -1,0 +1,35 @@
+.user-games {
+  margin-top: 20px;
+}
+
+.game-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.game-card {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.game-title {
+  margin-top: 0;
+}
+
+.game-description {
+  margin-bottom: 10px;
+}
+
+.play-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

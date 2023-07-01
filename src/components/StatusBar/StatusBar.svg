@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="StatusBar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 605" style="enable-background:new 0 0 120 605;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#36A9E1;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:10px;}
+	.st4{font-size:11.3122px;}
+	.st5{font-size:14px;}
+	.st6{fill:#359696;}
+	.st7{font-size:27px;}
+</style>
+<g id="Box_x5F_Player_x5F_7">
+	<rect id="Box_00000164515282615359043820000004868465202404002451_" x="15.6" y="502.83" class="st0" width="90" height="56"/>
+	<g id="Labels_00000153684679697656080840000008711358247775647890_">
+		<rect x="41.55" y="547.64" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000098929238853883258230000012219332220196249762_" transform="matrix(0.9724 0 0 1 41.5499 555.6932)" class="st2 st3">RECURSOS</text>
+		<rect x="41.55" y="537.64" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000142169241596154517640000004708978269732773052_" transform="matrix(0.9724 0 0 1 41.5499 545.6932)" class="st2 st3">CARTAS</text>
+		<rect x="41.55" y="527.64" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000145018699934118693390000004739079658309029007_" transform="matrix(0.9724 0 0 1 41.5499 535.6932)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000145024030269847401180000005246878897844222364_">
+		<rect x="19.57" y="547.64" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000073699990772328807300000011903463494296678551_" transform="matrix(0.9724 0 0 1 19.5666 555.6751)" class="st2 st4">REC</text>
+		<rect x="19.57" y="537.64" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000142879937028759958860000007865727577864217728_" transform="matrix(0.9724 0 0 1 19.5666 545.6751)" class="st2 st4">CAR</text>
+		<rect x="19.57" y="527.64" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000038385403861346174720000012985165524307963276_" transform="matrix(0.9724 0 0 1 19.5666 535.6751)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.57" y="510.8" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000091002994754000829920000008007821057647546763_" transform="matrix(1 0 0 1 19.5667 520.7416)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_6">
+	<rect id="Box_00000011732538502177194170000017923609536193299842_" x="15" y="441.05" class="st0" width="90" height="56"/>
+	<g id="Labels_00000063618420359275458500000004525400523005444794_">
+		<rect x="40.95" y="485.87" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000024002923789768485110000006535638317067159215_" transform="matrix(0.9724 0 0 1 40.9538 493.9193)" class="st2 st3">RECURSOS</text>
+		<rect x="40.95" y="475.87" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000043440031808646308100000002299238880927974557_" transform="matrix(0.9724 0 0 1 40.9538 483.9193)" class="st2 st3">CARTAS</text>
+		<rect x="40.95" y="465.87" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000075141857508999537390000001514564930824761523_" transform="matrix(0.9724 0 0 1 40.9538 473.9193)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000057142279047271744400000004204202038544638899_">
+		<rect x="18.97" y="485.87" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000029757644509368434210000012843325771838915756_" transform="matrix(0.9724 0 0 1 18.9705 493.9012)" class="st2 st4">REC</text>
+		<rect x="18.97" y="475.87" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000053510575964846102850000016103911976279284149_" transform="matrix(0.9724 0 0 1 18.9705 483.9012)" class="st2 st4">CAR</text>
+		<rect x="18.97" y="465.87" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000168824819320347946100000002895754615668379284_" transform="matrix(0.9724 0 0 1 18.9705 473.9012)" class="st2 st4">CON</text>
+	</g>
+	<rect x="18.97" y="449.03" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000083066628548118331580000013973096991143045812_" transform="matrix(1 0 0 1 18.9706 458.9677)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_5">
+	<rect id="Box_00000136382078065009894240000012507375756549191571_" x="15.6" y="379.28" class="st0" width="90" height="56"/>
+	<g id="Labels_00000040535608699226122770000011930246635424405902_">
+		<rect x="41.55" y="424.1" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000031193330651872291550000004658191866261587134_" transform="matrix(0.9724 0 0 1 41.55 432.1454)" class="st2 st3">RECURSOS</text>
+		<rect x="41.55" y="414.1" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000176728702534046382460000015901098977711449013_" transform="matrix(0.9724 0 0 1 41.55 422.1454)" class="st2 st3">CARTAS</text>
+		<rect x="41.55" y="404.1" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000121959773384472461500000012418047071371517115_" transform="matrix(0.9724 0 0 1 41.55 412.1454)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000056424165485198914220000001063533720657923217_">
+		<rect x="19.57" y="424.1" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000032637822193681016060000008608871599781420703_" transform="matrix(0.9724 0 0 1 19.5666 432.1273)" class="st2 st4">REC</text>
+		<rect x="19.57" y="414.1" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000144318953549456098780000010601326832349213108_" transform="matrix(0.9724 0 0 1 19.5666 422.1273)" class="st2 st4">CAR</text>
+		<rect x="19.57" y="404.1" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000104682467572361132000000016914855564175901336_" transform="matrix(0.9724 0 0 1 19.5666 412.1273)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.57" y="387.25" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000134223803344483552130000009135776856015064506_" transform="matrix(1 0 0 1 19.5667 397.1938)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_4">
+	<rect id="Box_00000004530780357104864540000007036375886022753471_" x="15.2" y="317.51" class="st0" width="90" height="56"/>
+	<g id="Labels_00000129920056448815873470000009116597040320059054_">
+		<rect x="41.15" y="362.32" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000152241265523397516880000017649771064763916693_" transform="matrix(0.9724 0 0 1 41.1525 370.3715)" class="st2 st3">RECURSOS</text>
+		<rect x="41.15" y="352.32" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000002372810772815404080000011052770441456084864_" transform="matrix(0.9724 0 0 1 41.1525 360.3715)" class="st2 st3">CARTAS</text>
+		<rect x="41.15" y="342.32" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000057137696063618777570000008886840446515694776_" transform="matrix(0.9724 0 0 1 41.1525 350.3715)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000069380951554009462370000012217455609020746172_">
+		<rect x="19.17" y="362.32" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000180357713823330253330000003856624589344373938_" transform="matrix(0.9724 0 0 1 19.1692 370.3535)" class="st2 st4">REC</text>
+		<rect x="19.17" y="352.32" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000044868952302335894510000001772293368908665533_" transform="matrix(0.9724 0 0 1 19.1692 360.3535)" class="st2 st4">CAR</text>
+		<rect x="19.17" y="342.32" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000139981152282411980000000013413476622303675548_" transform="matrix(0.9724 0 0 1 19.1692 350.3535)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.17" y="325.48" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000037675677410917076880000015762168956014218902_" transform="matrix(1 0 0 1 19.1693 335.4199)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_3">
+	<rect id="Box_00000166636340508140232330000010188889813654968453_" x="15.3" y="255.73" class="st0" width="90" height="56"/>
+	<g id="Labels_00000162341230565651928800000008675906531351335829_">
+		<rect x="41.25" y="300.55" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000111179978820964767020000009306735967006689443_" transform="matrix(0.9724 0 0 1 41.2519 308.5977)" class="st2 st3">RECURSOS</text>
+		<rect x="41.25" y="290.55" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000013163474335511804710000002665274684381019284_" transform="matrix(0.9724 0 0 1 41.2519 298.5977)" class="st2 st3">CARTAS</text>
+		<rect x="41.25" y="280.55" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000108310066913085915050000000068535917816970664_" transform="matrix(0.9724 0 0 1 41.2519 288.5977)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000105398824182674737930000015274416791275024010_">
+		<rect x="19.27" y="300.55" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000158026907022493628130000012244480409829008063_" transform="matrix(0.9724 0 0 1 19.2685 308.5796)" class="st2 st4">REC</text>
+		<rect x="19.27" y="290.55" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000062186582971526366560000007218417549961224074_" transform="matrix(0.9724 0 0 1 19.2685 298.5796)" class="st2 st4">CAR</text>
+		<rect x="19.27" y="280.55" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000008142746661248319150000011995089229224068231_" transform="matrix(0.9724 0 0 1 19.2685 288.5796)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.27" y="263.71" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000074428228992291475710000007371314622820000134_" transform="matrix(1 0 0 1 19.2686 273.6461)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_2">
+	<rect id="Box_00000134245944079018398330000014138643190871922076_" x="15.5" y="193.96" class="st0" width="90" height="56"/>
+	<g id="Labels_00000114756787338812710140000011941218882951808175_">
+		<rect x="41.45" y="238.77" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Rec_00000029764484809831328380000000452483134601877666_" transform="matrix(0.9724 0 0 1 41.4506 246.8238)" class="st2 st3">RECURSOS</text>
+		<rect x="41.45" y="228.77" class="st1" width="40.93" height="9"/>
+		
+			<text id="Label_x5F_Car_00000023271113832504955020000002941531343279217826_" transform="matrix(0.9724 0 0 1 41.4506 236.8238)" class="st2 st3">CARTAS</text>
+		<rect x="41.45" y="218.77" class="st1" width="60.05" height="9"/>
+		
+			<text id="Label_x5F_Con_00000058563789363281359120000004180993989050596014_" transform="matrix(0.9724 0 0 1 41.4506 226.8238)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data_00000147221070234883654920000008429551958065314226_">
+		<rect x="19.47" y="238.77" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Resource_00000100364893545847087450000002491173502984524466_" transform="matrix(0.9724 0 0 1 19.4673 246.8057)" class="st2 st4">REC</text>
+		<rect x="19.47" y="228.77" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Car_00000095333019612339995340000000536378821790279048_" transform="matrix(0.9724 0 0 1 19.4673 236.8057)" class="st2 st4">CAR</text>
+		<rect x="19.47" y="218.77" class="st1" width="21.98" height="9"/>
+		
+			<text id="N_x5F_Conquistas_00000119115524897660589090000016624632290941960079_" transform="matrix(0.9724 0 0 1 19.4673 226.8057)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.47" y="201.93" class="st1" width="81.86" height="11.46"/>
+	
+		<text id="Name_00000004529056214557390260000017905856283232511378_" transform="matrix(1 0 0 1 19.4674 211.8721)" class="st2 st5">Nombre</text>
+</g>
+<g id="Box_x5F_Player_x5F_1">
+	<rect id="Box_00000089566017660909570800000008015432077337364655_" x="15.6" y="132.18" class="st0" width="90" height="56"/>
+	<g id="Labels">
+		<rect x="41.55" y="177" class="st1" width="60.05" height="9"/>
+		<text id="Label_x5F_Rec" transform="matrix(0.9724 0 0 1 41.55 185.0499)" class="st2 st3">RECURSOS</text>
+		<rect x="41.55" y="167" class="st1" width="40.93" height="9"/>
+		<text id="Label_x5F_Car" transform="matrix(0.9724 0 0 1 41.55 175.0499)" class="st2 st3">CARTAS</text>
+		<rect x="41.55" y="157" class="st1" width="60.05" height="9"/>
+		<text id="Label_x5F_Con" transform="matrix(0.9724 0 0 1 41.55 165.0499)" class="st2 st3">CONQUISTAS</text>
+	</g>
+	<g id="Data">
+		<rect x="19.57" y="177" class="st1" width="21.98" height="9"/>
+		<text id="N_x5F_Resource" transform="matrix(0.9724 0 0 1 19.5666 185.0318)" class="st2 st4">REC</text>
+		<rect x="19.57" y="167" class="st1" width="21.98" height="9"/>
+		<text id="N_x5F_Car" transform="matrix(0.9724 0 0 1 19.5666 175.0318)" class="st2 st4">CAR</text>
+		<rect x="19.57" y="157" class="st1" width="21.98" height="9"/>
+		<text id="N_x5F_Conquistas" transform="matrix(0.9724 0 0 1 19.5666 165.0318)" class="st2 st4">CON</text>
+	</g>
+	<rect x="19.57" y="140.16" class="st1" width="81.86" height="11.46"/>
+	<text id="Name" transform="matrix(1 0 0 1 19.5667 150.0983)" class="st2 st5">Nombre</text>
+</g>
+<rect x="14.9" y="109.63" class="st1" width="90.1" height="11.46"/>
+<text id="Label_x5F_Players" transform="matrix(1 0 0 1 23.8795 119.5703)" class="st2 st5">JUGADORES</text>
+<g id="Box_x5F_Turn_00000066514917788071573170000007810564155038205630_">
+	<rect id="Box_00000016074887017904287770000018440500624458733734_" x="15" y="18.47" class="st6" width="90" height="70"/>
+	<rect x="19.07" y="26.83" class="st1" width="81.86" height="22.93"/>
+	<text id="Label" transform="matrix(1 0 0 1 19.0699 46.0041)" class="st2 st7">TURNO</text>
+	<rect x="45.5" y="57.83" class="st1" width="29.01" height="24.76"/>
+	<text id="Number" transform="matrix(1 0 0 1 45.497 76.998)" class="st2 st7">10</text>
+</g>
+</svg>

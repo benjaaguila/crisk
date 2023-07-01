@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Roboto:wght@300&display=swap');
+
+.GameBar {
+    width: 900px;
+    height: 120px;
+    background-color: rgb(99, 121, 130);
+    border-radius: 20px;
+}
+
+#Troops_1:hover {
+    filter: brightness(130%);
+}
+
+#Troops_2:hover {
+    filter: brightness(130%);
+}
+
+#Troops_3:hover {
+    filter: brightness(130%);
+}
+
+#Resource_1:hover {
+    filter: brightness(130%);
+}
+
+#Resource_2:hover {
+    filter: brightness(130%);
+}
+
+#Resource_3:hover {
+    filter: brightness(130%);
+}
+
+#attack-button:hover {
+    filter: brightness(130%);
+}
+
+#end-turn-button:hover {
+    filter: brightness(130%);
+}
+
+#transaction-button:hover {
+    filter: brightness(130%);
+}
+
+#Button_4:hover {
+    filter: brightness(130%);
+}
+
+#throwDice-button:hover {
+    filter: brightness(130%);
+}
+
+.st0_GB{fill:#36AAE1;}
+.st1_GB{font-family:'Open Sans', sans-serif;}
+.st2_GB{font-size:14px;}
+.st3_GB{font-size:12px;}
+.st4_GB{fill:#A472AF;}
+.st5_GB{fill:#E94E1B;}
+.st6_GB{font-family:'BebasNeue-Regular';
+    fill: black;}
+.st7_GB{
+    font-size:29px;
+    fill:black;
+}
+.st8_GB{fill:#EC663B;}
+.st9_GB{fill:#878787;}
+.st10_GB{fill:#FFDE00;}
+.st11_GB{fill:#E71D73;}
+.st12_GB{fill:#009FE3;}
+.st13_GB{fill:#00983A;}
+.st14_GB{fill:#E30613;}
+
+.disable{
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.GameBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

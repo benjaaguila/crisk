@@ -1,0 +1,17 @@
+.rules-content {
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    align-items: center;
+    margin: auto;
+}
+
+.diapos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    flex: 3;
+    padding: 70px;
+}
