@@ -15,6 +15,7 @@ import { useParams } from 'react-router-dom';
 import { useState, createContext } from 'react';
 import { useContext } from 'react';
 import { AuthContext } from '../../components/auth/AuthContext';
+import VITE_BACKEND_URL from "../config";
 
 const UBICACIONES_NUM_TABLERO = {
   '1': {
@@ -261,7 +262,7 @@ export default function GamePage() {
     useEffect(() => {
       const config = {
         'method': 'get',
-        'url': `${import.meta.env.VITE_BACKEND_URL}/games/${gameId}/boardData`,
+        'url': `${VITE_BACKEND_URL}/games/${gameId}/boardData`,
         'headers': {
             'Authorization': `Bearer ${token}`
         }
@@ -279,7 +280,7 @@ export default function GamePage() {
     useEffect(() => {
         const config = {
           'method': 'get',
-          'url': `${import.meta.env.VITE_BACKEND_URL}/users/${userId}/games/${gameId}/playerData`,
+          'url': `${VITE_BACKEND_URL}/users/${userId}/games/${gameId}/playerData`,
           'headers': {
               'Authorization': `Bearer ${token}`
           }
@@ -297,7 +298,7 @@ export default function GamePage() {
     useEffect(() => {
         const config = {
         'method': 'get',
-        'url': `${import.meta.env.VITE_BACKEND_URL}/games/${gameId}/status`,
+        'url': `${VITE_BACKEND_URL}/games/${gameId}/status`,
         'headers': {
             'Authorization': `Bearer ${token}`
         }
@@ -316,7 +317,7 @@ export default function GamePage() {
     useEffect(() => {
       const config = {
         'method': 'get',
-        'url': `${import.meta.env.VITE_BACKEND_URL}/games/${gameId}`,
+        'url': `${VITE_BACKEND_URL}/games/${gameId}`,
         'headers': {
             'Authorization': `Bearer ${token}`
         }
@@ -336,7 +337,7 @@ export default function GamePage() {
 
     // Creamos un useEffect para que consulte la ruta de currentPlayer
     useEffect(() => {
-        axios.get(`${import.meta.env.VITE_BACKEND_URL}/games/${gameId}`)
+        axios.get(`${VITE_BACKEND_URL}/games/${gameId}`)
         .then((response) => {
             const currentPlayer = response.data;
             setCurrentPlayer(currentPlayer.currentPlayer);
@@ -372,7 +373,7 @@ export default function GamePage() {
     // y hace el post al backend
     const handleTransactionSubmit = (e) => {
         e.preventDefault();
-        axios.post(`${import.meta.env.VITE_BACKEND_URL}/games/${gameId}/transaction`, {
+        axios.post(`${VITE_BACKEND_URL}/games/${gameId}/transaction`, {
             infantryRequired: infantryRequested,
             cavalryRequired: cavalryRequested,
             artilleryRequired: artilleryRequested,
@@ -523,7 +524,7 @@ export default function GamePage() {
   }
 
   const handleTerritoryEnd = () => {
-    axios.get(`${import.meta.env.VITE_BACKEND_URL}/games/${gameId}/endTurn`)
+    axios.get(`${VITE_BACKEND_URL}/games/${gameId}/endTurn`)
     .then((response) => {
         const responseData = response.data;
         setShowSummary(true);

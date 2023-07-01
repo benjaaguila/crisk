@@ -4,6 +4,7 @@ import { AuthContext } from "../../components/auth/AuthContext";
 import { Link, useParams } from 'react-router-dom';
 import { useContext } from "react";
 import axios from "axios";
+import VITE_BACKEND_URL from "../config";
 
 function UserGamesPage() {
   const { userId } = useParams();
@@ -15,7 +16,7 @@ function UserGamesPage() {
   useEffect(() => {
     const config = {
       'method': 'get',
-      'url': `${import.meta.env.VITE_BACKEND_URL}/users/${userId}/games`,
+      'url': `${VITE_BACKEND_URL}/users/${userId}/games`,
       'headers': {
           'Authorization': `Bearer ${token}`
       }
