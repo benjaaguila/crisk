@@ -4,7 +4,7 @@ import { AuthContext } from "../../components/auth/AuthContext";
 import { Link, useParams } from 'react-router-dom';
 import { useContext } from "react";
 import axios from "axios";
-import VITE_BACKEND_URL from "../config";
+import VITE_BACKEND_URL from "../../config";
 
 function UserGamesPage() {
   const { userId } = useParams();

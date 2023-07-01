@@ -15,7 +15,7 @@ import { useParams } from 'react-router-dom';
 import { useState, createContext } from 'react';
 import { useContext } from 'react';
 import { AuthContext } from '../../components/auth/AuthContext';
-import VITE_BACKEND_URL from "../config";
+import VITE_BACKEND_URL from "../../config";
 
 const UBICACIONES_NUM_TABLERO = {
   '1': {
