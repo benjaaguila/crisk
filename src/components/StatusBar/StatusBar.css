@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.StatusBar {
+    width: 120px;
+    height: 605px;
+    background-color: rgb(99, 121, 130);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+#Box1 {
+    width: 120px;
+    height: 605px;
+    background-color: rgb(109, 173, 198);
+    border-radius: 20px;
+}
+
+
+.st0{
+    fill:#36A9E1;
+    border-radius: 20px;
+    width: 90px;
+    height: 56px;
+}
+
+.box_jugadores{
+    border-radius: 20px;
+    width: 90px;
+    height: 56px;
+}
+
+.st1{fill:none;}
+.st2{font-family:'Roboto', sans-serif;}
+.st3{font-size:10px;}
+.st4{
+    font-size:11.3122px;
+    fill: black;
+}
+.st5{
+    font-size:14px;
+    fill: black;
+}
+.st6{fill:#359696;}
+.st7{font-size:24px;}
