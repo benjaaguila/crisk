@@ -59,7 +59,7 @@ function UserGamesPage() {
         const game = response.data.game;
         console.log(game)
         const gameId = game.id;
-        window.location.href = `/games/${gameId}`;
+        window.location.reload();
       })
       .catch((error) => {
         console.log(error);
